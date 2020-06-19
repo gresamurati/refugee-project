@@ -1,0 +1,82 @@
+,year_x,ISO_code,countries,pf_expression_cable,pf_rank,ef_rank,hf_rank,numberOfRefugees,gdpPerCapita,incomeGroup
+0,2016,ALB,Albania,10,57,34,48,11065,4124.108907,Upper middle income
+3,2016,ARG,Argentina,10,42,160,107,128,12790.24247,Upper middle income
+5,2016,AUS,Australia,10,11,10,4,14,49971.13146,High income
+6,2016,AUT,Austria,10,8,27,16,6,45237.80509,High income
+10,2016,BGD,Bangladesh,7.5,146,120,138,13850,1401.620628,Lower middle income
+13,2016,BEL,Belgium,10,19,52,27,45,42012.0999,High income
+17,2016,BOL,Bolivia,10,73,123,92,537,3076.658949,Lower middle income
+20,2016,BRA,Brazil,10,94,144,123,809,8710.09669,Upper middle income
+22,2016,BGR,Bulgaria,10,41,46,41,805,7469.455638,Upper middle income
+23,2016,BFA,Burkina Faso,7.5,63,129,88,2357,582.7954443,Low income
+26,2016,CMR,Cameroon,7.5,142,141,144,10374,1363.403851,Lower middle income
+27,2016,CAN,Canada,10,12,10,5,84,42279.90082,High income
+31,2016,CHL,Chile,10,39,15,32,498,13748.08766,High income
+32,2016,CHN,China,7.5,141,108,135,207772,8078.790474,Upper middle income
+33,2016,COL,Colombia,10,79,105,87,311062,5871.223524,Upper middle income
+36,2016,CRI,Costa Rica,10,40,33,37,208,11666.45591,Upper middle income
+38,2016,HRV,Croatia,10,35,75,44,26230,12360.47326,High income
+40,2016,CZE,Czech Rep.,10,16,30,21,1271,18463.38658,High income
+41,2016,DNK,Denmark,10,4,16,6,2,54663.99837,High income
+42,2016,DOM,Dominican Rep.,10,81,62,69,361,7280.873164,Upper middle income
+43,2016,ECU,Ecuador,10,59,127,83,1046,6060.093329,Upper middle income
+44,2016,EGY,Egypt,7.5,158,147,156,19796,3525.020165,Lower middle income
+45,2016,SLV,El Salvador,10,83,67,70,19614,3800.103302,Lower middle income
+46,2016,EST,Estonia,10,17,13,14,305,18237.29584,High income
+47,2016,ETH,Ethiopia,7.5,150,146,150,83966,717.1245929,Low income
+49,2016,FIN,Finland,10,5,22,10,4,43777.44009,High income
+50,2016,FRA,France,10,25,57,32,54,37038.95513,High income
+54,2016,DEU,Germany,10,9,20,13,74,42098.92045,High income
+55,2016,GHA,Ghana,10,46,98,57,15541,1931.38947,Lower middle income
+56,2016,GRC,Greece,10,45,108,61,105,18116.45962,High income
+57,2016,GTM,Guatemala,10,99,23,66,12554,4140.589826,Upper middle income
+62,2016,HND,Honduras,10,107,70,92,10507,2342.584651,Lower middle income
+64,2016,HUN,Hungary,10,38,59,42,2909,12992.37567,High income
+66,2016,IND,India,10,112,96,110,7291,1729.268021,Lower middle income
+67,2016,IDN,Indonesia,7.5,108,65,85,13064,3562.845756,Lower middle income
+68,2016,IRN,Iran,7.5,154,130,153,94094,5265.906635,Upper middle income
+72,2016,ITA,Italy,10,30,54,34,51,30936.12544,High income
+73,2016,JAM,Jamaica,10,70,62,60,2005,4843.338474,Upper middle income
+74,2016,JPN,Japan,10,29,41,31,59,38794.33094,High income
+75,2016,JOR,Jordan,7.5,111,42,75,1933,4103.7336,Upper middle income
+76,2016,KAZ,Kazakhstan,7.5,109,69,90,2364,7714.841844,Upper middle income
+77,2016,KEN,Kenya,10,102,61,82,7535,1410.527571,Lower middle income
+78,2016,KOR,"Korea, South",10,26,35,27,250,27623.28869,High income
+83,2016,LBN,Lebanon,10,104,74,95,4740,7634.946544,Upper middle income
+90,2016,MDG,Madagascar,10,88,126,103,297,475.9553656,Low income
+92,2016,MYS,Malaysia,7.5,126,79,110,456,9817.740861,Upper middle income
+97,2016,MEX,Mexico,10,89,82,75,10385,8739.756043,Upper middle income
+98,2016,MDA,Moldova,7.5,76,95,75,2318,2880.439281,Lower middle income
+99,2016,MNG,Mongolia,10,43,48,45,2285,3660.150746,Lower middle income
+101,2016,MAR,Morocco,10,124,115,127,2262,2896.720003,Lower middle income
+106,2016,NLD,Netherlands,10,1,18,6,37,46007.85292,High income
+107,2016,NZL,New Zealand,10,6,3,1,28,40026.8522,High income
+108,2016,NIC,Nicaragua,7.5,103,54,75,1419,2107.56718,Lower middle income
+110,2016,NGA,Nigeria,10,128,118,132,229311,2175.99967,Lower middle income
+111,2016,NOR,Norway,10,2,25,10,10,70460.56053,High income
+113,2016,PAK,Pakistan,10,143,132,140,105428,1368.454326,Lower middle income
+114,2016,PAN,Panama,10,53,27,46,40,14356.32405,High income
+117,2016,PER,Peru,10,51,44,47,2609,6204.99726,Upper middle income
+118,2016,PHL,Philippines,10,100,49,73,434,2941.21204,Lower middle income
+119,2016,POL,Poland,7.5,36,54,39,1159,12431.57542,High income
+120,2016,PRT,Portugal,10,14,36,22,19,19978.40121,High income
+122,2016,ROU,Romania,10,31,20,24,1199,9567.031743,Upper middle income
+123,2016,RUS,Russia,5,130,87,119,62759,8745.375117,Upper middle income
+126,2016,SEN,Senegal,10,91,125,105,23061,1269.040407,Lower middle income
+127,2016,SRB,Serbia,10,48,84,51,36933,5756.381194,Upper middle income
+130,2016,SGP,Singapore,7.5,62,2,25,41,56724.17039,High income
+132,2016,SVN,Slovenia,10,23,71,35,21,21622.58068,High income
+133,2016,ZAF,South Africa,10,55,94,63,450,5272.918425,Upper middle income
+134,2016,ESP,Spain,10,27,30,25,35,26505.34322,High income
+135,2016,LKA,Sri Lanka,7.5,121,106,119,117479,3886.291502,Upper middle income
+139,2016,SWE,Sweden,10,3,43,17,15,51974.19656,High income
+144,2016,TZA,Tanzania,10,116,79,102,594,966.4746224,Low income
+145,2016,THA,Thailand,10,106,84,98,158,5978.611454,Upper middle income
+149,2016,TUN,Tunisia,10,98,121,109,1700,3698.058504,Lower middle income
+150,2016,TUR,Turkey,5,118,86,107,57925,10820.63384,Upper middle income
+151,2016,UGA,Uganda,10,115,46,85,6233,608.7057351,Low income
+152,2016,UKR,Ukraine,7.5,97,134,118,239075,2187.731997,Lower middle income
+153,2016,ARE,United Arab Emirates,7.5,149,37,117,112,38141.84676,High income
+154,2016,GBR,United Kingdom,10,18,9,8,81,41064.13343,High income
+155,2016,USA,United States,10,28,6,17,310,57927.51685,High income
+156,2016,URY,Uruguay,10,37,65,43,27,15387.14403,High income
